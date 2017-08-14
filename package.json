@@ -39,7 +39,7 @@
     "underscore": "~1.4.4",
     "passport": "~0.1.17",
     "passport-github": "~0.1.5",
-    "mysql": "~2.0.0-alpha9"
+    "mysql": "~2.14.0"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
