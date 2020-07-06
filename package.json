@@ -25,7 +25,7 @@
     "asyncjs": "0.0.7",
     "hogan.js": "2.0.0",
     "sqlite3": "2.1.7",
-    "bcrypt": "~0.7.6",
+    "bcrypt": "~5.0.0",
     "nodemailer": "0.3.20",
     "commander": "1.0.0",
     "less": "~1.4.2",
