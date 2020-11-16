@@ -26,7 +26,7 @@
     "hogan.js": "2.0.0",
     "sqlite3": "2.1.7",
     "bcrypt": "~0.7.6",
-    "nodemailer": "0.3.20",
+    "nodemailer": "6.4.16",
     "commander": "1.0.0",
     "less": "~1.4.2",
     "jade": "0.26.3",
