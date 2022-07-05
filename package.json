@@ -37,8 +37,8 @@
     "lynx": "0.0.11",
     "file-db": "0.0.2",
     "underscore": "~1.4.4",
-    "passport": "~0.1.17",
-    "passport-github": "~0.1.5",
+    "passport": "~0.6.0",
+    "passport-github": "~1.0.0",
     "mysql": "~2.0.0-alpha9"
   },
   "devDependencies": {
